@@ -29,7 +29,7 @@ Partial Class FormMenuUtama
         ' 
         ' btnKlub
         ' 
-        btnKlub.Location = New Point(181, 97)
+        btnKlub.Location = New Point(180, 93)
         btnKlub.Name = "btnKlub"
         btnKlub.Size = New Size(131, 23)
         btnKlub.TabIndex = 0
@@ -38,7 +38,7 @@ Partial Class FormMenuUtama
         ' 
         ' btnPemain
         ' 
-        btnPemain.Location = New Point(181, 144)
+        btnPemain.Location = New Point(180, 140)
         btnPemain.Name = "btnPemain"
         btnPemain.Size = New Size(131, 23)
         btnPemain.TabIndex = 1
@@ -47,7 +47,7 @@ Partial Class FormMenuUtama
         ' 
         ' btnKeluar
         ' 
-        btnKeluar.Location = New Point(181, 193)
+        btnKeluar.Location = New Point(180, 189)
         btnKeluar.Name = "btnKeluar"
         btnKeluar.Size = New Size(131, 23)
         btnKeluar.TabIndex = 2
@@ -58,7 +58,7 @@ Partial Class FormMenuUtama
         ' 
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(516, 333)
+        ClientSize = New Size(516, 321)
         Controls.Add(btnKeluar)
         Controls.Add(btnPemain)
         Controls.Add(btnKlub)

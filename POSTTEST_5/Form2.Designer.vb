@@ -85,7 +85,7 @@ Partial Class FormKlub
         ' 
         ' btnBatal
         ' 
-        btnBatal.Location = New Point(359, 318)
+        btnBatal.Location = New Point(495, 231)
         btnBatal.Name = "btnBatal"
         btnBatal.Size = New Size(75, 23)
         btnBatal.TabIndex = 9
@@ -94,7 +94,7 @@ Partial Class FormKlub
         ' 
         ' btnSImpan
         ' 
-        btnSImpan.Location = New Point(90, 308)
+        btnSImpan.Location = New Point(370, 231)
         btnSImpan.Name = "btnSImpan"
         btnSImpan.Size = New Size(75, 23)
         btnSImpan.TabIndex = 8
@@ -104,28 +104,28 @@ Partial Class FormKlub
         ' dtpTahunBerdiri
         ' 
         dtpTahunBerdiri.CustomFormat = "yyyy"
-        dtpTahunBerdiri.Location = New Point(219, 228)
+        dtpTahunBerdiri.Location = New Point(370, 202)
         dtpTahunBerdiri.Name = "dtpTahunBerdiri"
         dtpTahunBerdiri.Size = New Size(200, 23)
         dtpTahunBerdiri.TabIndex = 7
         ' 
         ' txtKota
         ' 
-        txtKota.Location = New Point(219, 183)
+        txtKota.Location = New Point(370, 173)
         txtKota.Name = "txtKota"
         txtKota.Size = New Size(200, 23)
         txtKota.TabIndex = 6
         ' 
         ' txtNamaKlub
         ' 
-        txtNamaKlub.Location = New Point(219, 126)
+        txtNamaKlub.Location = New Point(370, 144)
         txtNamaKlub.Name = "txtNamaKlub"
         txtNamaKlub.Size = New Size(200, 23)
         txtNamaKlub.TabIndex = 5
         ' 
         ' txtKodeKlub
         ' 
-        txtKodeKlub.Location = New Point(219, 72)
+        txtKodeKlub.Location = New Point(370, 115)
         txtKodeKlub.Name = "txtKodeKlub"
         txtKodeKlub.Size = New Size(200, 23)
         txtKodeKlub.TabIndex = 4
@@ -133,7 +133,7 @@ Partial Class FormKlub
         ' Label4
         ' 
         Label4.AutoSize = True
-        Label4.Location = New Point(90, 234)
+        Label4.Location = New Point(185, 210)
         Label4.Name = "Label4"
         Label4.Size = New Size(76, 15)
         Label4.TabIndex = 3
@@ -142,7 +142,7 @@ Partial Class FormKlub
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Location = New Point(90, 186)
+        Label3.Location = New Point(185, 181)
         Label3.Name = "Label3"
         Label3.Size = New Size(56, 15)
         Label3.TabIndex = 2
@@ -151,7 +151,7 @@ Partial Class FormKlub
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(90, 134)
+        Label2.Location = New Point(185, 152)
         Label2.Name = "Label2"
         Label2.Size = New Size(66, 15)
         Label2.TabIndex = 1
@@ -160,7 +160,7 @@ Partial Class FormKlub
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(90, 80)
+        Label1.Location = New Point(185, 123)
         Label1.Name = "Label1"
         Label1.Size = New Size(61, 15)
         Label1.TabIndex = 0
@@ -186,7 +186,7 @@ Partial Class FormKlub
         ' 
         ' btnRefresh
         ' 
-        btnRefresh.Location = New Point(367, 307)
+        btnRefresh.Location = New Point(515, 292)
         btnRefresh.Name = "btnRefresh"
         btnRefresh.Size = New Size(75, 23)
         btnRefresh.TabIndex = 8
@@ -195,7 +195,7 @@ Partial Class FormKlub
         ' 
         ' btnHapus
         ' 
-        btnHapus.Location = New Point(286, 307)
+        btnHapus.Location = New Point(392, 292)
         btnHapus.Name = "btnHapus"
         btnHapus.Size = New Size(75, 23)
         btnHapus.TabIndex = 7
@@ -204,7 +204,7 @@ Partial Class FormKlub
         ' 
         ' btnUbah
         ' 
-        btnUbah.Location = New Point(205, 307)
+        btnUbah.Location = New Point(266, 292)
         btnUbah.Name = "btnUbah"
         btnUbah.Size = New Size(75, 23)
         btnUbah.TabIndex = 6
@@ -213,7 +213,7 @@ Partial Class FormKlub
         ' 
         ' btnTambah
         ' 
-        btnTambah.Location = New Point(124, 307)
+        btnTambah.Location = New Point(148, 292)
         btnTambah.Name = "btnTambah"
         btnTambah.Size = New Size(75, 23)
         btnTambah.TabIndex = 5
@@ -224,14 +224,14 @@ Partial Class FormKlub
         ' 
         dgvKlub.BackgroundColor = Color.White
         dgvKlub.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        dgvKlub.Location = New Point(124, 124)
+        dgvKlub.Location = New Point(148, 121)
         dgvKlub.Name = "dgvKlub"
         dgvKlub.Size = New Size(442, 165)
         dgvKlub.TabIndex = 4
         ' 
         ' btnCari
         ' 
-        btnCari.Location = New Point(368, 81)
+        btnCari.Location = New Point(522, 83)
         btnCari.Name = "btnCari"
         btnCari.Size = New Size(68, 25)
         btnCari.TabIndex = 3
@@ -240,15 +240,15 @@ Partial Class FormKlub
         ' 
         ' txtSearch
         ' 
-        txtSearch.Location = New Point(242, 78)
+        txtSearch.Location = New Point(224, 85)
         txtSearch.Name = "txtSearch"
-        txtSearch.Size = New Size(100, 23)
+        txtSearch.Size = New Size(292, 23)
         txtSearch.TabIndex = 1
         ' 
         ' Label5
         ' 
         Label5.AutoSize = True
-        Label5.Location = New Point(124, 86)
+        Label5.Location = New Point(148, 88)
         Label5.Name = "Label5"
         Label5.Size = New Size(55, 15)
         Label5.TabIndex = 0

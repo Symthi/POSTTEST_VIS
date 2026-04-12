@@ -95,7 +95,7 @@ Partial Class FormPemain
         ' 
         ' btnBatal
         ' 
-        btnBatal.Location = New Point(272, 343)
+        btnBatal.Location = New Point(476, 266)
         btnBatal.Name = "btnBatal"
         btnBatal.Size = New Size(64, 24)
         btnBatal.TabIndex = 13
@@ -104,7 +104,7 @@ Partial Class FormPemain
         ' 
         ' btnSimpan
         ' 
-        btnSimpan.Location = New Point(100, 343)
+        btnSimpan.Location = New Point(354, 266)
         btnSimpan.Name = "btnSimpan"
         btnSimpan.Size = New Size(64, 24)
         btnSimpan.TabIndex = 12
@@ -114,28 +114,28 @@ Partial Class FormPemain
         ' cboKlub
         ' 
         cboKlub.FormattingEnabled = True
-        cboKlub.Location = New Point(216, 294)
+        cboKlub.Location = New Point(354, 237)
         cboKlub.Name = "cboKlub"
-        cboKlub.Size = New Size(120, 23)
+        cboKlub.Size = New Size(186, 23)
         cboKlub.TabIndex = 11
         ' 
         ' nudBerat
         ' 
-        nudBerat.Location = New Point(216, 247)
+        nudBerat.Location = New Point(354, 208)
         nudBerat.Maximum = New Decimal(New Integer() {200, 0, 0, 0})
         nudBerat.Minimum = New Decimal(New Integer() {50, 0, 0, 0})
         nudBerat.Name = "nudBerat"
-        nudBerat.Size = New Size(120, 23)
+        nudBerat.Size = New Size(186, 23)
         nudBerat.TabIndex = 10
         nudBerat.Value = New Decimal(New Integer() {50, 0, 0, 0})
         ' 
         ' nudTinggi
         ' 
-        nudTinggi.Location = New Point(216, 201)
+        nudTinggi.Location = New Point(354, 179)
         nudTinggi.Maximum = New Decimal(New Integer() {250, 0, 0, 0})
         nudTinggi.Minimum = New Decimal(New Integer() {150, 0, 0, 0})
         nudTinggi.Name = "nudTinggi"
-        nudTinggi.Size = New Size(120, 23)
+        nudTinggi.Size = New Size(186, 23)
         nudTinggi.TabIndex = 9
         nudTinggi.Value = New Decimal(New Integer() {150, 0, 0, 0})
         ' 
@@ -143,29 +143,29 @@ Partial Class FormPemain
         ' 
         cboPosisi.FormattingEnabled = True
         cboPosisi.Items.AddRange(New Object() {"Point Guard", "Shooting Guard", "Small Forward", "Power Forward", "Center"})
-        cboPosisi.Location = New Point(215, 161)
+        cboPosisi.Location = New Point(354, 150)
         cboPosisi.Name = "cboPosisi"
-        cboPosisi.Size = New Size(121, 23)
+        cboPosisi.Size = New Size(186, 23)
         cboPosisi.TabIndex = 8
         ' 
         ' txtNamaPemain
         ' 
-        txtNamaPemain.Location = New Point(215, 124)
+        txtNamaPemain.Location = New Point(354, 121)
         txtNamaPemain.Name = "txtNamaPemain"
-        txtNamaPemain.Size = New Size(121, 23)
+        txtNamaPemain.Size = New Size(186, 23)
         txtNamaPemain.TabIndex = 7
         ' 
         ' txtKodePemain
         ' 
-        txtKodePemain.Location = New Point(215, 86)
+        txtKodePemain.Location = New Point(354, 92)
         txtKodePemain.Name = "txtKodePemain"
-        txtKodePemain.Size = New Size(121, 23)
+        txtKodePemain.Size = New Size(186, 23)
         txtKodePemain.TabIndex = 6
         ' 
         ' Label6
         ' 
         Label6.AutoSize = True
-        Label6.Location = New Point(100, 302)
+        Label6.Location = New Point(194, 238)
         Label6.Name = "Label6"
         Label6.Size = New Size(31, 15)
         Label6.TabIndex = 5
@@ -174,7 +174,7 @@ Partial Class FormPemain
         ' Label5
         ' 
         Label5.AutoSize = True
-        Label5.Location = New Point(100, 255)
+        Label5.Location = New Point(194, 208)
         Label5.Name = "Label5"
         Label5.Size = New Size(70, 15)
         Label5.TabIndex = 4
@@ -183,7 +183,7 @@ Partial Class FormPemain
         ' Label4
         ' 
         Label4.AutoSize = True
-        Label4.Location = New Point(100, 209)
+        Label4.Location = New Point(194, 179)
         Label4.Name = "Label4"
         Label4.Size = New Size(76, 15)
         Label4.TabIndex = 3
@@ -192,7 +192,7 @@ Partial Class FormPemain
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Location = New Point(100, 169)
+        Label3.Location = New Point(194, 151)
         Label3.Name = "Label3"
         Label3.Size = New Size(37, 15)
         Label3.TabIndex = 2
@@ -201,7 +201,7 @@ Partial Class FormPemain
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(100, 132)
+        Label2.Location = New Point(194, 122)
         Label2.Name = "Label2"
         Label2.Size = New Size(82, 15)
         Label2.TabIndex = 1
@@ -210,7 +210,7 @@ Partial Class FormPemain
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(100, 94)
+        Label1.Location = New Point(194, 93)
         Label1.Name = "Label1"
         Label1.Size = New Size(77, 15)
         Label1.TabIndex = 0
@@ -236,7 +236,7 @@ Partial Class FormPemain
         ' 
         ' btnRefresh
         ' 
-        btnRefresh.Location = New Point(395, 334)
+        btnRefresh.Location = New Point(364, 305)
         btnRefresh.Name = "btnRefresh"
         btnRefresh.Size = New Size(75, 23)
         btnRefresh.TabIndex = 7
@@ -245,7 +245,7 @@ Partial Class FormPemain
         ' 
         ' btnHapus
         ' 
-        btnHapus.Location = New Point(300, 334)
+        btnHapus.Location = New Point(283, 305)
         btnHapus.Name = "btnHapus"
         btnHapus.Size = New Size(75, 23)
         btnHapus.TabIndex = 6
@@ -254,7 +254,7 @@ Partial Class FormPemain
         ' 
         ' btnUbah
         ' 
-        btnUbah.Location = New Point(197, 334)
+        btnUbah.Location = New Point(202, 305)
         btnUbah.Name = "btnUbah"
         btnUbah.Size = New Size(75, 23)
         btnUbah.TabIndex = 5
@@ -263,7 +263,7 @@ Partial Class FormPemain
         ' 
         ' btnTambah
         ' 
-        btnTambah.Location = New Point(104, 334)
+        btnTambah.Location = New Point(121, 305)
         btnTambah.Name = "btnTambah"
         btnTambah.Size = New Size(75, 23)
         btnTambah.TabIndex = 4
@@ -272,7 +272,7 @@ Partial Class FormPemain
         ' 
         ' btnCari
         ' 
-        btnCari.Location = New Point(363, 62)
+        btnCari.Location = New Point(590, 56)
         btnCari.Name = "btnCari"
         btnCari.Size = New Size(75, 23)
         btnCari.TabIndex = 3
@@ -283,22 +283,22 @@ Partial Class FormPemain
         ' 
         dgvPemain.BackgroundColor = Color.White
         dgvPemain.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        dgvPemain.Location = New Point(104, 101)
+        dgvPemain.Location = New Point(121, 85)
         dgvPemain.Name = "dgvPemain"
         dgvPemain.Size = New Size(544, 214)
         dgvPemain.TabIndex = 2
         ' 
         ' txtSearch
         ' 
-        txtSearch.Location = New Point(197, 61)
+        txtSearch.Location = New Point(202, 56)
         txtSearch.Name = "txtSearch"
-        txtSearch.Size = New Size(130, 23)
+        txtSearch.Size = New Size(382, 23)
         txtSearch.TabIndex = 1
         ' 
         ' Label7
         ' 
         Label7.AutoSize = True
-        Label7.Location = New Point(104, 69)
+        Label7.Location = New Point(125, 60)
         Label7.Name = "Label7"
         Label7.Size = New Size(71, 15)
         Label7.TabIndex = 0
@@ -310,7 +310,7 @@ Partial Class FormPemain
         ' 
         ' btnKembali
         ' 
-        btnKembali.Location = New Point(568, 418)
+        btnKembali.Location = New Point(709, 418)
         btnKembali.Name = "btnKembali"
         btnKembali.Size = New Size(75, 23)
         btnKembali.TabIndex = 1
