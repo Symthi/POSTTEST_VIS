@@ -28,7 +28,6 @@
         Me.Close()
     End Sub
 
-    ' ========== TOMBOL TAMBAH ==========
     Private Sub btnTambah_Click(sender As Object, e As EventArgs) Handles btnTambah.Click
         BersihkanInput()
         modeEdit = False
@@ -37,7 +36,6 @@
         txtKodeKlub.Focus()
     End Sub
 
-    ' ========== TOMBOL UBAH ==========
     Private Sub btnUbah_Click(sender As Object, e As EventArgs) Handles btnUbah.Click
         If dgvKlub.SelectedRows.Count = 0 Then
             MessageBox.Show("Pilih data yang akan diubah", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning)
@@ -59,7 +57,6 @@
         txtNamaKlub.Focus()
     End Sub
 
-    ' ========== TOMBOL SIMPAN ==========
     Private Sub btnSimpan_Click(sender As Object, e As EventArgs) Handles btnSImpan.Click
         ErrorProvider1.Clear()
         If Not ValidasiKlub(ErrorProvider1, txtKodeKlub, txtNamaKlub, txtKota) Then Exit Sub
@@ -91,13 +88,11 @@
         End If
     End Sub
 
-    ' ========== TOMBOL BATAL ==========
     Private Sub btnBatal_Click(sender As Object, e As EventArgs) Handles btnBatal.Click
         TabControl1.SelectedTab = tabData
         BersihkanInput()
     End Sub
 
-    ' ========== TOMBOL HAPUS ==========
     Private Sub btnHapus_Click(sender As Object, e As EventArgs) Handles btnHapus.Click
         If dgvKlub.SelectedRows.Count = 0 Then
             MessageBox.Show("Pilih data yang akan dihapus", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning)
@@ -113,18 +108,15 @@
         End If
     End Sub
 
-    ' ========== TOMBOL REFRESH ==========
     Private Sub btnRefresh_Click(sender As Object, e As EventArgs) Handles btnRefresh.Click
         TampilData()
         txtSearch.Clear()
     End Sub
 
-    ' ========== TOMBOL CARI ==========
     Private Sub btnCari_Click(sender As Object, e As EventArgs) Handles btnCari.Click
         LakukanPencarian()
     End Sub
 
-    ' ========== PENCARIAN REAL-TIME (TEXTCHANGED) ==========
     Private Sub txtSearch_TextChanged(sender As Object, e As EventArgs) Handles txtSearch.TextChanged
         LakukanPencarian()
     End Sub
@@ -137,7 +129,6 @@
         End If
     End Sub
 
-    ' ========== VALIDASI HURUF ==========
     Private Sub txtNamaKlub_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtNamaKlub.KeyPress
         HanyaHuruf(e)
     End Sub
@@ -146,7 +137,6 @@
         HanyaHuruf(e)
     End Sub
 
-    ' ========== DOUBLE CLICK GRID ==========
     Private Sub dgvKlub_CellDoubleClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvKlub.CellDoubleClick
         If e.RowIndex >= 0 Then
             btnUbah.PerformClick()

@@ -1,7 +1,6 @@
 ﻿Imports MySqlConnector
 
 Module DataModule
-    ' ========== KLUB ==========
     Public Function GetAllKlub() As DataTable
         Dim dt As New DataTable()
         Try
@@ -104,7 +103,6 @@ Module DataModule
         End Try
     End Function
 
-    ' ========== PEMAIN ==========
     Public Function GetAllPemain() As DataTable
         Dim dt As New DataTable()
         Try
