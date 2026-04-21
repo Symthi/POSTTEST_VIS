@@ -1,0 +1,48 @@
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.FormMenuUtama.resources
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.FormKlub.resources
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.GenerateResource.cache
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.AssemblyInfoInputs.cache
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.AssemblyInfo.vb
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.sourcelink.json
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.FormPemain.resources
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\POSTTEST_5.exe
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\POSTTEST_5.deps.json
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\POSTTEST_5.runtimeconfig.json
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\POSTTEST_5.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\POSTTEST_5.pdb
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.Up2Date
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\refint\POSTTEST_5.dll
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.pdb
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST_5.genruntimeconfig.cache
+C:\Kuliah\SEMESTER 4\VIS\POSTTEST_VIS\POSTTEST_5\obj\Debug\net10.0-windows\ref\POSTTEST_5.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\POSTTEST_5.exe
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\POSTTEST_5.deps.json
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\POSTTEST_5.runtimeconfig.json
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\POSTTEST_5.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\POSTTEST_5.pdb
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.AssemblyReference.cache
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.FormMenuUtama.resources
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.FormKlub.resources
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.FormPemain.resources
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.GenerateResource.cache
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.AssemblyInfoInputs.cache
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.AssemblyInfo.vb
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.CoreCompileInputs.cache
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.vbproj.Up2Date
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\refint\POSTTEST_5.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.pdb
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.genruntimeconfig.cache
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\ref\POSTTEST_5.dll
+C:\PUNYA ELFIN\VIS\PRAK VISUAK\POSTTEST_6\obj\Debug\net10.0-windows\POSTTEST_5.Form3.resources
